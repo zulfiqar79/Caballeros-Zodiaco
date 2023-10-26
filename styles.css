@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('https://i.pinimg.com/736x/52/30/5e/52305e65c589b6ff35e09e9c28bc4ac2.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    opacity: 0.9; 
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+h1 {
+    color: #3366cc;
+    margin-bottom: 100px;
+}
+h2 {
+    color: #ff9900;
+}
+p {
+    margin-bottom: 50px;
+    color: #070102e4;
+    font-weight: bold;
+}
+.description {
+    border: 1px solid #ccc;
+    padding: 10px;
+    background-color: #f4f4f4;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
